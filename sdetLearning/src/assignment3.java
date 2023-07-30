@@ -32,5 +32,6 @@ public class assignment3 {
 		int result=assgObj.multiply(z3,2);
 		System.out.println(result);
 	}
-
+//checking whether code pushed to git
+	
 }
